@@ -10,6 +10,7 @@ namespace ConsoleA
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola que tal");
         }
     }
 }
